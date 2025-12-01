@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion"
 
-const logos = ["SUSUTECH", "EVa green solution", "Smatpay", "Hexacore banking", "interswitch*"]
+const logos = ["SUSUTECH", "Eva green", "Smatpay", "Hexacore banking", "interswitch*"]
 
 export default function CustomersSection() {
   return (

@@ -177,7 +177,7 @@ export default function ContactSection() {
                     <Input
                       id="email"
                       type="email"
-                      placeholder="john@example.com"
+                      placeholder="adamu@example.com"
                       {...register("email")}
                       className={`h-12 ${errors.email ? "border-red-500 focus-visible:ring-red-500" : ""}`}
                     />
@@ -200,7 +200,7 @@ export default function ContactSection() {
                     </label>
                     <Input
                       id="phone"
-                      placeholder="+1 (555) 000-0000"
+                      placeholder="+234 703 635 2800"
                       {...register("phone")}
                       className={`h-12 ${errors.phone ? "border-red-500 focus-visible:ring-red-500" : ""}`}
                     />
