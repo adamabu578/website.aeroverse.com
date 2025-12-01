@@ -7,8 +7,8 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Biru - IT Solutions & Technology Services",
-  description: "We solve business problems with technology. Software Services, Cloud Services, and Security Solutions.",
+  title: "Aeroverse - IT Solutions & Technology Services",
+  description: "We solve business problems with technology.",
     generator: 'v0.app'
 }
 

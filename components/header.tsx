@@ -51,9 +51,9 @@ export default function Header() {
         <div className="flex items-center justify-between">
           <Link href="/" className="flex items-center gap-2">
             <div className="w-8 h-8 bg-white rounded-full flex items-center justify-center">
-              <span className="text-[#2E3192] font-bold text-lg">b</span>
+              <span className="text-[#2E3192] font-bold text-lg">A</span>
             </div>
-            <span className="text-white font-bold text-xl">biru</span>
+            <span className="text-white font-bold text-xl">Aeroverse</span>
           </Link>
 
           <nav className="hidden md:flex items-center gap-8">
