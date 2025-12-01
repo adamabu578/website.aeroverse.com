@@ -28,19 +28,19 @@ const contactInfo = [
   {
     icon: Mail,
     title: "Email Us",
-    value: "hello@biru.com",
+    value: "support@aeroverse.com",
     color: "bg-[#00C9A7]",
   },
   {
     icon: Phone,
     title: "Call Us",
-    value: "+1 (555) 123-4567",
+    value: "+234 703 635 2800",
     color: "bg-[#2E3192]",
   },
   {
     icon: MapPin,
     title: "Visit Us",
-    value: "123 Tech Street, CA 90210",
+    value: "RSQ 10 adeleke Street, kaduna, Nigeria",
     color: "bg-orange-500",
   },
 ]
