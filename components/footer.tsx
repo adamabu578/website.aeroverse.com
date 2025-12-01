@@ -14,7 +14,7 @@ export default function Footer() {
               <div className="w-8 h-8 bg-white rounded-full flex items-center justify-center">
                 <span className="text-[#2E3192] font-bold text-lg">b</span>
               </div>
-              <span className="font-bold text-xl">biru</span>
+              <span className="font-bold text-xl">Aeroverse</span>
             </div>
             <p className="text-white/70 mb-6">We solve business problems with innovative technology solutions.</p>
             <div className="flex gap-4">
@@ -42,7 +42,7 @@ export default function Footer() {
             },
             {
               title: "Contact Us",
-              links: ["hello@biru.com", "+1 (555) 123-4567", "123 Tech Street, CA"],
+              links: ["support@aeroverse.com", "+234 703 635 2800", "RSQ 10 adeleke Street, kaduna, Nigeria"],
             },
           ].map((column, colIndex) => (
             <motion.div
@@ -72,7 +72,7 @@ export default function Footer() {
           viewport={{ once: true }}
           className="border-t border-white/20 pt-8 text-center text-white/60"
         >
-          <p>&copy; 2025 Biru. All rights reserved.</p>
+          <p>&copy; 2025 Aeroverse. All rights reserved.</p>
         </motion.div>
       </div>
     </footer>
